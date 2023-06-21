@@ -33,11 +33,11 @@ Things I added:
 - clicking outside will reset the rating choice 
 ### Screenshot
 
-![Alt text](image.png)
+![Alt text](images/default.png)
 
-![Alt text](image-1.png)
+![Alt text](images/hover.png)
 
-![Alt text](<Screenshot (195).png>)
+![Alt text](images/alert.png)
 
 ![Alt text](images/submitted.png)
 
